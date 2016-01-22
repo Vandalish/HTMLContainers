@@ -1,0 +1,75 @@
+﻿/*
+Author: Robert Kirk, gentleman and scholar
+Created: 1/8/16
+Updated: 1/12/16
+*/
+
+body
+	{
+	width:90%;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color:rgba(200, 0, 255, 0.25);
+	color:#333;
+	font-family: Impact;
+	font-size: 16px;
+	line-height:1.5em;
+	}
+nav
+{
+	margin-bottom:1.5em;
+}
+nav a
+{
+	font-family: Arial;
+	background-color:rgb(200, 0, 255);
+	margin:10px;
+	text-align:center;
+	padding:10px;
+	border-radius: 5px;
+	
+}
+header
+{
+	background-color:#ffcc00;
+	text-align:center;
+	padding-bottom:0.5em;
+	border-top-width:2px;
+	border-top-style:dashed;
+	border-top-color:#333;
+	border-bottom-width:2px;
+	border-bottom-style:dashed;
+	border-bottom-color:#333;
+}
+h1
+{
+	font-style:italic;
+	font-weight:normal;
+	font-size:1.5em;	
+}
+a
+{
+	font-weight:bold;
+	text-decoration:none;
+}
+
+a:hover
+{
+	text-decoration:underline;
+	cursor:pointer;
+}
+h1:first-child
+{
+	font-weight:bold;
+}
+h2
+{
+	text-align:center;
+	font-style:italic;
+}
+.red
+{
+	color:#ff0000;
+}
